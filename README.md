@@ -5,8 +5,8 @@ Hello! 👋 I'm Anh Nguyen. There aren't many interesting things to share about 
 
 ## 🔧 Skills & Expertise
 - IoT Embedded Software : C/C++, ESP32 SoCs, Raspberry PI, esp-idf, matter, RTOS, MQTT...
-- Backend : Linux, Python, microservices architecture, Docker, Kubenetes, Restful API, gRPC,...
-
+- Backend : Linux, Python, Django, Flask, microservices architecture, Docker, Kubenetes, Restful API, gRPC,...
+- AWS : EC2, 
 ## 🌱 I’m currently learning
 I believe in continuous learning. It brought me knowledge, joy and a lot of money and currently, I am exploring:
 - AI : Machine learnning with TensorFlow APIs
